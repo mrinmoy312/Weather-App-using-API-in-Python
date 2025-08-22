@@ -1,5 +1,9 @@
 # 🌦️ Weather App (Python + WeatherAPI)  
 
+[![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![WeatherAPI](https://img.shields.io/badge/API-WeatherAPI-orange.svg)](https://www.weatherapi.com/)  
+
 A simple **command-line weather app** built with Python. It fetches **real-time weather data** using the [WeatherAPI](https://www.weatherapi.com/) and displays details like temperature, condition, humidity, and wind speed in the terminal.  
 
 ---
