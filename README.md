@@ -20,15 +20,15 @@ A simple **command-line weather app** built with Python. It fetches **real-time 
 
 ## 🛠️ Requirements
 - Python 3.6+  
-- `requests` module  
+- `requests` module
 
-Install the dependency:  
-```bash
-pip install requests
-
-📖 What’s Happening in the Code?
+## 📖 What’s Happening in the Code?
 
 - We use `requests.get()` to call the WeatherAPI.  
 - The response is returned in **JSON format**, which we parse using `.json()`.  
 - The weather details are then printed in a clean format.  
 - If an error occurs (like entering the wrong city), it is handled gracefully. 
+
+Install the dependency:  
+```bash
+pip install requests
