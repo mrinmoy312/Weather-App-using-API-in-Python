@@ -1,4 +1,4 @@
-# 🌦️ Weather App (Python + WeatherAPI)  
+# 🌦️ Weather Web App (Python + WeatherAPI)  
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)  
 [![WeatherAPI](https://img.shields.io/badge/API-WeatherAPI-orange.svg)](https://www.weatherapi.com/)  
 
