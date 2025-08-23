@@ -1,5 +1,4 @@
 # 🌦️ Weather App (Python + WeatherAPI)  
-
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)  
 [![WeatherAPI](https://img.shields.io/badge/API-WeatherAPI-orange.svg)](https://www.weatherapi.com/)  
 
@@ -7,7 +6,7 @@ A simple **command-line weather app** built with Python. It fetches **real-time 
 
 ---
 
-## 🚀 Features  
+## 🚀 Features
 - Fetches live weather for any city  
 - Displays:  
   - 📍 City & Country  
@@ -19,7 +18,7 @@ A simple **command-line weather app** built with Python. It fetches **real-time 
 
 ---
 
-## 🛠️ Requirements  
+## 🛠️ Requirements
 - Python 3.6+  
 - `requests` module  
 
