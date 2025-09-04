@@ -30,7 +30,7 @@ pip install requests
 ## 📖 What’s Happening in the Code?
 
 - I use `requests.get()` to call the WeatherAPI.  
-- The response is returned in **JSON format**, which we parse using `.json()`.  
+- The response is returned in **JSON format**, which  parse using `.json()`.  
 - The weather details are then printed in a clean format.  
 - If an error occurs (like entering the wrong city), it is handled gracefully. 
 
