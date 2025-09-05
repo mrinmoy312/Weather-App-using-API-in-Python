@@ -14,6 +14,7 @@ def get_weather(city):
         print(f"💨 Wind: {data['current']['wind_kph']} kph\n")
     else:
         print("❌ City not found or API error.")
+        
 
 if __name__ == "__main__":
     city = input("Enter city name: ")
